@@ -1,0 +1,112 @@
+* {
+	margin-bottom: 50 px;
+}
+h1 {
+	font-family: Verdana;
+	text-align: left;
+	font-size: 40px;
+	color: #65659a;
+	text-decoration: underline;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+p {
+	font-family: Verdana;
+	color: #8484ae;
+	font-size: 20px;
+	margin-left: 50px;
+}
+
+p2 {
+	font-family: Verdana;
+	color: #7474a5;
+	font-size: 12px;
+	margin-left: 50px;
+}
+
+.ingredients {
+	font-family: Verdana;
+	color:#51517b;
+	font-size: 14px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 100px;
+	width: 400px;
+	height: 200px;
+}
+
+.ingredients ul :hover {
+	font-size: 20px;
+	transition: 5px;
+	color: #8484ae;
+}
+
+h2 {
+	margin-left: 50px;
+	font-family: Verdana;
+	text-align: left;
+	font-size: 20px;
+	text-decoration: underline;
+	clear: both;
+}
+
+#ingredients {
+	height: 300px;
+	width: 300px;
+	border-radius: 6px;
+	border: 3px solid #8484ae;
+	float: right;
+	margin-right: 400px;
+	box-shadow: 5px 5px 5px #8484ae;
+
+}
+
+.directions {
+	font-family: Verdana;
+	color: #404040;
+	font-size: 14px;
+	text-align: left;
+	float: right;
+	margin-right: 300px;
+	width: 500px;
+	height: 200px;
+	transition: border 2px;
+}
+
+.directions ol :hover {
+	font-size: 20px;
+	transition: 5px;
+	color: #8484ae;
+}
+
+h3 {
+	font-family: Verdana;
+	font-size: 20px;
+	text-decoration: underline;
+	float: right;
+	margin-right: 400px;
+}
+
+#first {
+	height: 150px;
+	width: 150px;
+	border-radius: 6px;
+	border: 3px solid #8484ae;
+	float: left;
+	margin-left: 100px;
+	margin-top: 0px;
+	clear: both;
+	box-shadow: 5px 5px 5px #8484ae;
+}
+
+#second {
+	height: 150px;
+	width: 150px;
+	border-radius: 6px;
+	border: 3px solid #8484ae;
+	float: left;
+	margin-left: 100px;
+	margin-top: 10px;
+	box-shadow: 5px 5px 5px #8484ae;
+}
